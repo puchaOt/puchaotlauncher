@@ -14,7 +14,7 @@
     }
   ],
   "clientFolder": "PuchaOT",
-  "newClientUrl": "https://example.com/puchaot/client.zip",
+  "newClientUrl": "https://github.com/puchaOt/puchaotlauncher/releases/download/clientepuchaot/puchaot_cliente_v1.zip",
   "newConfigUrl": "https://example.com/puchaot/launcher_config.json",
   "clientExecutable": "client.exe"
 }
