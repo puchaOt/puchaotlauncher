@@ -1,0 +1,20 @@
+{
+  "clientVersion": "1.0.0",
+  "launcherVersion": "1.0.0",
+  "replaceFolders": true,
+  "replaceFolderName": [
+    {
+      "name": "assets"
+    },
+    {
+      "name": "storeimages"
+    },
+    {
+      "name": "bin"
+    }
+  ],
+  "clientFolder": "PuchaOT",
+  "newClientUrl": "https://example.com/puchaot/client.zip",
+  "newConfigUrl": "https://example.com/puchaot/launcher_config.json",
+  "clientExecutable": "client.exe"
+}
